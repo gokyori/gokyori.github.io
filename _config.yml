@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rabin Banjade"
   avatar           : "profile.png"
-  bio              : "PhD student at University of Memphis"
-  location         : "Memphis, Tn"
-  employer         :
+  bio              : "PhD student at UofM"
+  location         : "403C, \n FedEx Institute of Tecnology"
+  employer         : "University of Memphis"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=9kyXcR8AAAAJ&hl=en&oi=ao"
-  email            :
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
