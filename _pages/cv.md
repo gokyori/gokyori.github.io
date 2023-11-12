@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+<a href="../files/cv.pdf" class="uline">Click here for a full pdf copy of my CV</a>
 
 Education
 ======
