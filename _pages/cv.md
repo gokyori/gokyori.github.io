@@ -40,6 +40,14 @@ contrastive learning framework
 Memphis advertised COVID-19 tracing application released in Google Play Store
   * Contributor of feature extraction algorithm for PySpark based open source analytic software - Cerebral Cortex
 (mCerebrum)
+
+* Software Engineering Intern: May 2014 – March. 2016
+  * E & T NepalSoftware Engineering Intern Kathmandu, Nepal
+  * Worked on proprietary computational fluid dynamics system for particle image velocimetry
+
+* Teaching Assistant:May 2016 – June 2017
+  * Institute of Engineering, Pulchowk Campus, Kathmandu, Nepal
+  * Created assignments, lectures and graded undergraduate course for C programming
   
 <!--  Skills
 ======
