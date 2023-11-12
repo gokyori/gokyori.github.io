@@ -12,9 +12,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, University of Memphis, 2024 (expected)
+* B.E. in Electronics and Computer Engineering, IOE, Pulchowk Campus, Tribhuvan University University, 2015
 
 Work experience
 ======
