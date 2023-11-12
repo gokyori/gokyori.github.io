@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -26,8 +26,22 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+-->
+ 
+* NLP/AI Research Intern: May. 2022 – August 2022
+  * Philips, Boston, MA
+  * Research, development and evaluation of key phrase extraction using unsupervised embedding based methods and
+contrastive learning framework
+
+* Research Assistant Aug. 2017 – Aug. 2020 
+  * NIH Center of Excellence, Mobile Data to Knowledge Center (MD2K), Memphis, TN
+  * Developed end to end machine learning model for just in time intervention based on mobile sensor data.
+  * Developed, designed and implemented visualization and analytic crowd-tracing infrastructure for mContain - City of
+Memphis advertised COVID-19 tracing application released in Google Play Store
+  * Contributor of feature extraction algorithm for PySpark based open source analytic software - Cerebral Cortex
+(mCerebrum)
   
-Skills
+<!--  Skills
 ======
 * Skill 1
 * Skill 2
@@ -35,6 +49,9 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+
+-->
+
 
 Publications
 ======
