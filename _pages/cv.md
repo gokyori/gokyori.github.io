@@ -81,4 +81,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer: ACM SigCSE 2023, 2024
+* Reviewer: BEA Workshop (ACL 2023)
+* Reviewer: FlAIRS 2021, 2022
