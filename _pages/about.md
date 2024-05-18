@@ -16,4 +16,4 @@ My academic journey has seen me delve into various facets of NLP, including keyp
 
 I'm always open to suggestions, feedback, or even a friendly chat! Whether you're intrigued by my work, have ideas to share, or simply want to discuss shared interests, feel free to reach out. Beyond academia, I find joy in soccer, the invigorating rush of running, and immersing myself in the captivating world of movies.
 
-Let's connect and explore the realms of technology, and shared passions together!
+Let's connect and explore the realms of technology, and shared passions!
